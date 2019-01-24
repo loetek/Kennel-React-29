@@ -10,6 +10,7 @@
 
 .card {
   width: 10rem;
+  background-color: aliceblue;
 }
 
 .card-title {
